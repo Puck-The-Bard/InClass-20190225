@@ -4,10 +4,10 @@ Going over some items:
 
 * Git and github
     * Whole repo process
+* Project structure
+    * JSX and ReactJS    
 * HTML and Bootstrap
     * Just focus on using Bootstrap
-* Project structure
-    * JSX and ReactJS
 * Forms
     * Form handling
 
