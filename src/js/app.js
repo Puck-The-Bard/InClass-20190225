@@ -15,7 +15,8 @@ class App extends React.Component {
 
         const formresults = results;
         
-        this.setState( () => {
+        this.setState( () => 
+            {
                 return {
                     formresults
                 };
