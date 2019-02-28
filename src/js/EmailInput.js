@@ -28,7 +28,6 @@ class EmailInput extends React.Component {
     render() {
         return (
             <div className="form-group">
-                <p>Test message: {this.props.test}</p>
                 <label htmlFor="exampleInputEmail1">Email address</label>
                 <input 
                     aria-describedby="emailHelp" 
