@@ -1,4 +1,8 @@
-class LoginForm extends React.Component {
+import React, { Component } from 'react';
+import EmailInput from './EmailInput';
+import PasswordInput from './PasswordInput';
+
+class LoginForm extends Component {
 
     //constructor
     constructor(props){
@@ -128,3 +132,5 @@ class LoginForm extends React.Component {
         );
     };
 }
+
+export default LoginForm;
